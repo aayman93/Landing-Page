@@ -17,4 +17,4 @@ Basic responsive landing page with dynamic NavBar.
 - JavaScript
 
 ## Starter Code
-For starter code provided from Udacity, check this [repoistory](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page)
+For starter code provided by Udacity, check this [repoistory](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page)
